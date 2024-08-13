@@ -1,4 +1,5 @@
 OAI-222 (STATIC CMOS) Standard Cell Design 
+Guide: Dr. Anuj Grover
                                                                                                         
 Implementation of standard cell static cmos OAI-222 complex and non-complex gate, 
 schematic in Xschem, simulations in NgSpice, layout and DRC in Magic, LVS clean with 
